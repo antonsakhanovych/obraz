@@ -40,18 +40,6 @@
 
 ---
 
-## Momentum
-
-*Not what you believe, what you practice. Repeated, embodied actions that show a person in motion. Every entry must be a verb phrase. If you cannot put a verb on it, it belongs in Maxims. Momentum disappears the moment you stop, that is what makes it different from everything else in this document.*
-
-**What do you practice regularly that compounds over time, that you would notice losing within a week?**
-
-**What discipline are you building that is a slow answer to one of your Problems?**
-
-**What do you do that no one asks you to do and no one would know if you stopped?**
-
----
-
 ## Frequency
 
 *Not who you know, the wavelength you operate on. What genuine contact feels like, what you offer, what you are looking for, and how you distinguish it from noise. This section should be uncomfortable to write. If it is easy you are being generic.*
