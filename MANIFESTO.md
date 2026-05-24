@@ -56,28 +56,6 @@
 
 ---
 
-## Contradictions
-
-*The live tensions in your life. Pairs of things that are both true and in friction with each other. These are not failures, they are the specific texture of who you are. Name them honestly. Do not rush to resolve them.*
-
-*A contradiction is only resolved when you can state what you gave up to resolve it. If you cannot name the cost, you have not resolved it, you have suppressed it. The list shrinks honestly or not at all.*
-
-**What two things do you genuinely believe that are in tension, where holding both makes you harder to categorize?**
-
-**Where does your behavior most consistently diverge from your stated values? Not as self-criticism, as honest observation.**
-
-**What do you want that contradicts something else you want, where you cannot have both fully?**
-
----
-
-## Projects
-
-*A reference log of what you have built and are building, each traced back to the Problem it answers. Entries are never deleted. A finished project is still evidence of what you were answering at that point in your life.*
-
-**Format:** What it is / which Problem it answers / active or complete.
-
----
-
 *Obraz has no terminal state. It is not a plan toward a finished version of yourself. Revisit it when you make a significant decision, when something breaks, or when you feel you have lost the thread.*
 
 *Signal should stay stable. Everything else should change.*
