@@ -1,7 +1,7 @@
 # Obraz
 
-**Obraz** is a personal framework for articulating the complete inner form of a person. From Russian образ, not a portrait but the full truth.
+Obraz is a personal framework for writing down the complete inner form of a person. The name is the Russian образ, used here to mean the whole truth of someone rather than a likeness.
 
-It is structured around four sections: Signal, Problems, Maxims, and Frequency. Each section has core questions that ensure the essential things get answered. Beyond that it is open. If something is true about you and fits the section, it belongs there. You do not need a question to authorize it.
+It has four sections: Signal, Problems, Maxims, and Frequency. Each section opens with a few core questions so the essentials get answered. Past those, it is open. If something is true about you and fits a section, put it there, whether or not a question asked for it.
 
-See [MANIFESTO.md](./MANIFESTO.md) for the framework.
+The framework itself is in [MANIFESTO.md](./MANIFESTO.md).
